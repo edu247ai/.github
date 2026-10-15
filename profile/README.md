@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  EDU247
 
 <div align="center">
@@ -80,3 +81,17 @@ To build an inclusive, intelligent, and collaborative education ecosystem — po
 Let’s build the future of learning together.
 
 </div>
+=======
+## Hi there 👋
+
+<!--
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
+>>>>>>> 642b5d7318dc36ce6719f30652ac8184a97620f2
